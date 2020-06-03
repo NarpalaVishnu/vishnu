@@ -1,1 +1,2 @@
 This is the file in local repo 
+This is the file from remote repo
